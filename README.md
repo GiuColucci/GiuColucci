@@ -2,7 +2,7 @@
 
 Graduanda em **Inteligência Artificial na PUC-Rio** (bolsista Fundação Behring) e bolsista **PIBIC** no **LAMPS** (Laboratório de Estatística e Matemática Aplicada). Pesquiso **otimização e IA generativa** aplicadas a interfaces inteligentes de apoio à decisão, e gosto de construir agentes e aplicações com LLMs que resolvem problemas reais, de finanças a logística.
 
-🥇 Medalha de Ouro na Olimpíada Nacional de Ciências (ONC), 2022 · 🎓 Monitora de Programação (CTC4002), 2025
+🥇 Medalha de Ouro na Olimpíada Nacional de Ciências (ONC), 2022 · 🥇 1º lugar no 1º desafio de IA da Comunidade Behring no Kaggle (classificação de textos de saúde mental, acurácia de 0,836 no leaderboard privado), 2025 · 🎓 Monitora de Programação (CTC4002), 2025
 
 ## Em que estou trabalhando
 
