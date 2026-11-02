@@ -14,11 +14,12 @@ Graduanda em **Inteligência Artificial na PUC-Rio** (bolsista Fundação Behrin
 |---|---|---|
 | [**Desafio Stone**](https://github.com/GiuColucci/Desafio_Stone) | Calculadora de cubagem: identifica o produto por texto ou imagem com Gemini, estima as dimensões e indica a menor caixa dos Correios, para evitar erros de frete. Projeto em equipe da graduação. | Backend: algoritmos de dimensionamento e seleção de caixa, e apresentação final. |
 | **Denaro** | Assistente financeiro pessoal com IA: faz um diagnóstico conversacional (renda, gastos, metas) e calcula quanto poupar em diferentes planos. Gemini, n8n, Redis, MySQL e Google Sheets. Projeto em equipe. | Concepção da ideia e desenvolvimento do código. |
+| **Ferramenta Shiny de simulação (P&D ANEEL, PUC-Rio + CTG Brasil)** | Aplicação em R para simulação de cenários e apoio à otimização, com previsão do fenômeno ENSO. Código privado. | Testes automatizados (`testthat`) e validação de integridade de dados. |
 | [**Radar ENEM**](https://github.com/GiuColucci/radar-enem-1.0) | Ferramenta no ar ([demo](https://radar-enem-1-0.vercel.app/index.html)) que mostra os conteúdos mais cobrados do ENEM por área, com gráficos interativos. | Projeto individual. |
 
 ## Tecnologias
 
-Python · Julia/JuMP · Pyomo · LLMs (Gemini, GPT, Claude) · n8n · Redis · MySQL · Streamlit · HTML/CSS/JavaScript · Chart.js · Git
+Python · R/Shiny · testthat · Julia/JuMP · Pyomo · LLMs (Gemini, GPT, Claude) · n8n · Redis · MySQL · Streamlit · HTML/CSS/JavaScript · Chart.js · Git
 
 ## Contato
 
