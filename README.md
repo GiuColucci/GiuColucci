@@ -1,26 +1,27 @@
 # Oi! Giu Colucci aqui :)
 
-Estudante de **Inteligência Artificial na PUC-Rio** e bolsista **PIBIC** no LAMPS (Laboratório de Estatística e Matemática Aplicada), no projeto *Otimização e IA Generativa: Interfaces Inteligentes para Decisão em Sistemas Complexos*.
+Graduanda em **Inteligência Artificial na PUC-Rio** (bolsista Fundação Behring) e bolsista **PIBIC** no **LAMPS** (Laboratório de Estatística e Matemática Aplicada). Pesquiso **otimização e IA generativa** aplicadas a interfaces inteligentes de apoio à decisão, e gosto de construir agentes e aplicações com LLMs que resolvem problemas reais, de finanças a logística.
 
-Gosto de construir aplicações com LLMs que resolvem problemas reais, e de entender os modelos por trás delas.
+🥇 Medalha de Ouro na Olimpíada Nacional de Ciências (ONC), 2022 · 🎓 Monitora de Programação (CTC4002), 2025
 
 ## Em que estou trabalhando
 
-- **Pesquisa (PIBIC):** modelos de otimização (programação linear) em Python/Julia e JuMP, experimentos com LLMs via API e um protótipo de interface em linguagem natural que integra otimização, LLMs e recuperação de informação. Estudo o [OptiChat](https://github.com/GiuColucci/OptiChat), que explica modelos de otimização com LLMs.
-- **Estudos:** agentes de IA e engenharia com LLMs.
+- **Pesquisa (PIBIC, LAMPS):** *Otimização e IA Generativa: Interfaces Inteligentes para Decisão em Sistemas Complexos*. Modelos de programação linear em Python/Julia e JuMP, experimentos com LLMs via API para interpretar modelos e resultados, e um protótipo de interface em linguagem natural que integra otimização, LLMs e recuperação de informação. Estudo o [OptiChat](https://github.com/GiuColucci/OptiChat), que explica modelos de otimização com LLMs.
 
 ## Projetos
 
-| Projeto | O que é |
-|---|---|
-| [Desafio Stone](https://github.com/GiuColucci/Desafio_Stone) | Projeto da graduação em IA na PUC-Rio. Identifica produtos por texto ou imagem com Gemini, busca dimensões e indica a menor caixa dos Correios. |
-| [Radar ENEM](https://github.com/GiuColucci/radar-enem-1.0) | Ferramenta no ar ([demo](https://radar-enem-1-0.vercel.app/index.html)) que mostra os conteúdos mais cobrados do ENEM por área, com gráficos interativos. |
+| Projeto | O que é | Meu papel |
+|---|---|---|
+| [**Desafio Stone**](https://github.com/GiuColucci/Desafio_Stone) | Calculadora de cubagem: identifica o produto por texto ou imagem com Gemini, estima as dimensões e indica a menor caixa dos Correios, para evitar erros de frete. Projeto em equipe da graduação. | Backend: algoritmos de dimensionamento e seleção de caixa, e apresentação final. |
+| **Denaro** | Assistente financeiro pessoal com IA: faz um diagnóstico conversacional (renda, gastos, metas) e calcula quanto poupar em diferentes planos. Gemini, n8n, Redis, MySQL e Google Sheets. Projeto em equipe. | Concepção da ideia e desenvolvimento do código. |
+| [**Radar ENEM**](https://github.com/GiuColucci/radar-enem-1.0) | Ferramenta no ar ([demo](https://radar-enem-1-0.vercel.app/index.html)) que mostra os conteúdos mais cobrados do ENEM por área, com gráficos interativos. | Projeto individual. |
 
 ## Tecnologias
 
-Python · Julia/JuMP · Pyomo · LLMs (Gemini, GPT) · Streamlit · HTML/CSS/JavaScript · Chart.js · Git
+Python · Julia/JuMP · Pyomo · LLMs (Gemini, GPT, Claude) · n8n · Redis · MySQL · Streamlit · HTML/CSS/JavaScript · Chart.js · Git
 
 ## Contato
 
 - LinkedIn: [Giulia Colucci](https://www.linkedin.com/in/giulia-colucci-433b30378/)
 - E-mail: gcolucci.cloud@gmail.com
+- Currículo Lattes: [lattes.cnpq.br/4507512929754811](https://lattes.cnpq.br/4507512929754811)
