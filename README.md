@@ -1,4 +1,4 @@
-# Oi, eu sou a Giulia Colucci 👋
+# Oi! Giu Colucci aqui :)
 
 Estudante de **Inteligência Artificial na PUC-Rio** e bolsista **PIBIC** no LAMPS (Laboratório de Estatística e Matemática Aplicada), no projeto *Otimização e IA Generativa: Interfaces Inteligentes para Decisão em Sistemas Complexos*.
 
